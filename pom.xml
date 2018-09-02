@@ -42,12 +42,12 @@
     <repository>
       <id>myapp-releases</id>
       <name>myapp-releases</name>
-      <url>http://ec2-13-232-145-104.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/myapp-releases/</url>
+      <url>http://ec2-35-154-109-171.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/myapp-releases/</url>
     </repository>
     <snapshotRepository>
       <id>myapp-snapshots</id>
       <name>myapp-snapshots</name>
-      <url>http://ec2-13-232-145-104.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/myapp-snapshots/</url>
+      <url>http://ec2-35-154-109-171.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/myapp-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 </profile>
